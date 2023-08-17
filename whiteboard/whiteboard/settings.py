@@ -118,8 +118,8 @@ USE_TZ = True
 
 # sending emails
 EMAIL_HOST = 'smtpout.secureserver.net'
-EMAIL_HOST_ISER = '23125prabhrati.2020@gmail.com'
-EMAIL_HOST_PASSWORD = 'Rastogi@2020'
+EMAIL_HOST_ISER = 'Your Email Id'
+EMAIL_HOST_PASSWORD = 'email Password'
 EMAIL_USE_TLS = True
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 
